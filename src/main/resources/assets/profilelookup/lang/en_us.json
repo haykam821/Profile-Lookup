@@ -1,0 +1,7 @@
+{
+	"command.profilelookup.profile.operator.not_operator": "%s is not an operator",
+	"command.profilelookup.profile.operator.operator": "%s is an operator",
+	"command.profilelookup.profile.uuid.success": "The UUID for profile %s is %s",
+	"command.profilelookup.profile.whitelisted.not_whitelisted": "%s is not whitelisted",
+	"command.profilelookup.profile.whitelisted.whitelisted": "%s is whitelisted"
+}

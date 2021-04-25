@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "profilelookup",
+	"version": "${version}",
+	"name": "Profile Lookup",
+	"description": "Adds various lookup commands for game profiles.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Profile-Lookup#readme",
+		"issues": "https://github.com/haykam821/Profile-Lookup/issues"
+	},
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.profilelookup.Main"
+		]
+	},
+	"license": "MIT",
+	"icon": "assets/profilelookup/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0",
+		"fabric-command-api-v1": "*",
+		"fabric-resource-loader-v0": "*"
+	}
+}
